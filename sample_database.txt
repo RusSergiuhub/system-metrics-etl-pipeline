@@ -1,0 +1,12 @@
+SQLite Database: Metrics.db
+
+Table: System_metrics
+
+Columns:
+- timestamp TEXT / DATETIME
+- cpu_percent REAL
+- memory_percent REAL
+- host TEXT
+
+Purpose:
+Stores processed system metrics collected by the ETL pipeline.

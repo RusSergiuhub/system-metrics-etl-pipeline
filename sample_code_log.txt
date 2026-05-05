@@ -1,0 +1,10 @@
+2026-05-05 15:11:36:ETL pipeline started
+2026-05-05 15:11:36:Starting data extraction
+2026-05-05 15:11:36:Data extraction completed
+2026-05-05 15:11:36:Starting data transformation
+2026-05-05 15:11:36:Data transformation completed
+2026-05-05 15:11:36:Starting CSV loading
+2026-05-05 15:11:36:System metrics saved to CSV
+2026-05-05 15:11:36:Starting SQLite loading
+2026-05-05 15:11:36:Data loaded to Database
+2026-05-05 15:11:36:ETL cycle completed
