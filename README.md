@@ -27,11 +27,15 @@ A Python-based ETL pipeline that collects local system metrics (CPU and memory u
 ---
 
 ## Project Structure
+```text
+system-data-processing-pipeline
 │
 ├── main.py
+├── README.md
 ├── system_metrics.csv
 ├── Metrics.db
-├── code_log.txt
+└── code_log.txt
+```
 
 ---
 
